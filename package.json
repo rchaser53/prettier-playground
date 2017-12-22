@@ -1,0 +1,23 @@
+{
+  "name": "prettier-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.{md,js,ts,less,json}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/prettier-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/prettier-playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/prettier-playground#readme",
+  "devDependencies": {
+    "prettier": "^1.9.2"
+  }
+}
